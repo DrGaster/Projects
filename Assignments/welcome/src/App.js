@@ -1,26 +1,28 @@
 import React from 'react';
-import logo from './logo.svg';
+
 import './App.css';
 
-function App() {
+function Shoppping_list() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+      <h1>Welcome, Dr.Gaster</h1>
+      <hr />
+      <div className="Shopping_list">
+        <h3 className="list-title">
+          Shopping List
+        </h3>
+        <ul>
+          <li>Item 1</li>
+          <li>Item 2</li>
+          <li>Item 3</li>
+          <li>Item 4</li>
+        </ul>
+        <h3>
+          Add a new item: <input type="text" name="" id="" placeholder="New Item"/>
+        </h3>
+      </div>
     </div>
   );
 }
 
-export default App;
+export default Shoppping_list;
