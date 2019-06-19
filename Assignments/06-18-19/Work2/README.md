@@ -29,3 +29,26 @@ def function():
     * Remember to use array indexing.. (e.g. array[value]
     )
     * If done right, should also only take two lines.
+
+---
+## **Task 4:** Write a function that prints out all the elements of an array of any size
+
+* Hints
+    * The array can be *any* size
+    * Call the parameter *a*
+    * Remember to use array indexing.. (e.g. array[value]
+    )
+    * If done right, should also only take 3 lines.
+    * Use a *for* loop
+
+---
+## **Task 5:** Write a  function that takes in two parameters *a* and *b*, and returns *a* raised to the *b* power.
+
+* Hints
+    * Max of two lines
+
+---
+## **Task 6:** Write a function that takes in 3 numbers, *a*, *b*, *c*, and returns the product of all three.
+
+* Hints
+    * Max of two lines
