@@ -1,0 +1,14 @@
+Task Number 1
+	create a python function that adds two numbers
+Task Number 2
+	create a python fucntion the rasies a number to the power of 4
+task Number 3
+	where Moscow, Sydney, Dublin, Frankfurt, and Calcutta
+task Number 4
+	what are valent electrons
+task Number 5
+	what is the Octet rule
+task Number 6
+	what closest star to our solar system
+task Number 7
+	what is a derivative
