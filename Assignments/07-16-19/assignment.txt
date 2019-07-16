@@ -1,0 +1,20 @@
+1) Write a python function that takes in 2 numbers
+    and returns the larger of the two?
+
+2) Who is Leonel Messi, who does he play for, and where is he from?
+
+3) Name 5 states that border the Canadian border.
+
+4) Write a python 'for' loop that prints out numbers 1 to 10, inclusive.
+
+5) Name the countries with the largest and second largest populations, respectively.
+
+6) What the four classes of biomolecules?
+
+7) What are the hydroxyl and amine functional groups? (list formulas)
+
+8) Name the 3 leptons.
+
+9) When is my birthday?
+
+10) What city is mom from in Vietnam?
