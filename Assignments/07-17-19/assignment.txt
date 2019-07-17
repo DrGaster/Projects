@@ -1,0 +1,36 @@
+1) Write a python function that takes in a number and
+    returns the first 5 multiples of that number?
+    (e.g. 2 returns 2, 4, 6, 8, 10)
+
+2) What are the 8 Ivy League schools?
+
+3) What is the largest state in the US by land area?
+
+4) Write a python that takes in an array of numbers, and loops through
+    and print out each one.
+    (e.g. [1, 2, 3] returns 1 2 3)
+    (hint: use 'for' loop and the length method of arrays)
+
+5) What does Huawei make and where is it based?
+
+6) Few amino acids have sulfur in it. What are they?
+
+7) What is a polyatomic ion?
+
+8) What is pH? What does each end mean?
+
+9) When is Gina's birthday?
+
+10) What city is dad from in England?
+
+11) List the EM spectrum from longest wavelength to shortest.
+    (remember the pseudonym?)
+
+12) What is Ohm's law?
+
+13) Who is Faker, where is he from, and who does he play for?
+
+14) What is the saying to remember Trig functions?
+
+15) Write a python function that takes in the side length of a cube
+    and returns its surface area.
