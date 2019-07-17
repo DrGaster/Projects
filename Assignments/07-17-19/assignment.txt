@@ -2,35 +2,36 @@
     returns the first 5 multiples of that number?
     (e.g. 2 returns 2, 4, 6, 8, 10)
 
-2) What are the 8 Ivy League schools?
-
-3) What is the largest state in the US by land area?
-
+2) What ar, e the 8 Ivy League schools?
+    Brown University, Columbia University, Cornell University, Dartmouth College, Harvard University, the University of Pennsylvania, Princeton University, and Yale University
+3) What is he largest state in the US by land area?
+    Alaska
 4) Write a python that takes in an array of numbers, and loops through
     and print out each one.
     (e.g. [1, 2, 3] returns 1 2 3)
     (hint: use 'for' loop and the length method of arrays)
 
 5) What does Huawei make and where is it based?
-
+    building telecommunications networks, providing operational and consulting services and equipment to enterprises inside and outside of China
 6) Few amino acids have sulfur in it. What are they?
-
+    Methionine, cysteine, homocysteine, and taurine
 7) What is a polyatomic ion?
-
+    a charged chemical species composed of two or more atoms covalently bonded or of a metal complex that can be considered to be acting as a single unit
 8) What is pH? What does each end mean?
-
+    a scale that is used to rank the relative basicity or acidity of substances to other substances, based on the amount of hydrogen ion activity in a substance
 9) When is Gina's birthday?
-
+    March 19, 2002
 10) What city is dad from in England?
-
+    London
 11) List the EM spectrum from longest wavelength to shortest.
     (remember the pseudonym?)
-
+    radiowaves, microwaves, infrared, visble, ultraviolet, x-rays, gamma
 12) What is Ohm's law?
-
+    DescriptionOhm's law states that the current through a conductor between two points is directly proportional to the voltage across the two points
 13) Who is Faker, where is he from, and who does he play for?
-
+    Lee Sang-hyeok, South Korean, SK Telecom
 14) What is the saying to remember Trig functions?
-
+    soh cah toa
 15) Write a python function that takes in the side length of a cube
-    and returns its surface area.
+    and returns its surface area.  
+    
